@@ -2,11 +2,11 @@ Metadata-Version: 2.1
 Name: rpinfo
 Version: 0.2.1
 Summary: Gathers platform information of the currently running Raspberry Pi.
-Home-page: https://github.com/timothybrown/rpinfo
+Home-page: https://github.com/timothybrown/python-rpinfo
 Author: Timothy Brown
 Author-email: sysop@timb.us
 License: UNKNOWN
-Description: rpinfo 0.2.1 (2019.06.03)
+Description: # rpinfo 0.2.1 (2019.06.03)
         
         Gathers platform information of the currently running Raspberry Pi.
         Supports: Raspberry Pi A, A+, B, B+, 2B, 3B, 3B+, Zero, ZeroW, CM1 and CM3.

@@ -11,7 +11,7 @@ setuptools.setup(
     description="Gathers platform information of the currently running Raspberry Pi.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/timothybrown/rpinfo",
+    url="https://github.com/timothybrown/python-rpinfo",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
